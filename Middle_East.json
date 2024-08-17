@@ -2,7 +2,7 @@
 
 "IQ" : {
     "Country_key" : "+964",
-    "connection_key" : ["79","78","77","75"],
+    "connection_key" : ["78","77","75"],
     "starts_with_zero" : "0",
     "random_number" : "8"
     },
