@@ -1,0 +1,54 @@
+{
+
+"IQ" : {
+    "Country_key" : "+964",
+    "connection_key" : ["79","78","77","75"],
+    "starts_with_zero" : "0",
+    "random_number" : "8"
+    },
+    
+"EG" : {
+    "Country_key" : "+20",
+    "connection_key" : ["11","12","10","15"],
+    "starts_with_zero" : "0",
+    "random_number" : "8"
+    },
+
+"SA" : {
+    "Country_key" : "+966",
+    "connection_key" : ["50","53","54","55","56","57","58","59"],
+    "starts_with_zero" : "0",
+    "random_number" : "7"
+    },
+
+"IR" : {
+    "Country_key" : "+98",
+    "connection_key" : ["916", "917", "918","930","905","901","902","903","915","914","912","938","937","991","990","992"],
+    "starts_with_zero" : "0",
+    "random_number" : "7"
+    },
+
+
+"JO" : {
+    "Country_key" : "+962",
+    "connection_key" : ["77", "79", "78"],
+    "starts_with_zero" : "0",
+    "random_number" : "7"
+    },
+
+"OM" : {
+    "Country_key" : "+968",
+    "connection_key" : ["7", "9"],
+    "starts_with_zero" : "",
+    "random_number" : "7"
+    },
+
+
+"QA" : {
+    "Country_key" : "+974",
+    "connection_key" : ["7", "6","5"],
+    "starts_with_zero" : "",
+    "random_number" : "7"
+    }
+
+}
